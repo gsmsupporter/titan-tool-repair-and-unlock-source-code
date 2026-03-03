@@ -8,7 +8,7 @@ Commercial-ready v3.0.0 Full-Stack Platform: Samsung IMEI (450+ models), Pixel 1
 This repository serves as the official documentation and architectural overview for the acquisition of the **TITAN Tool v3.0.0** source code. This is a production-ready, revenue-generating platform built for professional GSM operators.
 
 ## 🌟 Key v3.0.0 Highlights
-- **Samsung Super-ADB:** Success on 450+ models including S26 series.
+- **Samsung Super-MTP:** Success on 450+ models including S26 series.
 - **Pixel 11 Ready:** Instant Fastboot FRP tokens for the latest 2026 hardware.
 - **KG Server v3:** Real-time API synchronization for Knox Guard removals.
 - **Anti-Crack Hardening:** Advanced VM detection and HMAC-SHA256 request signing.
