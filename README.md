@@ -38,3 +38,51 @@ For a full technical walkthrough, live demo, or pricing discussion:
 https://github.com/user-attachments/assets/ed898a4c-1b1f-45b2-8964-628c9548e386
 
 
+🚀 TITAN Tool v2.0.0 — MAJOR UPDATE RELEASED 🚀
+📅 March 2, 2026
+Version 2.0.0 is officially live. This is the biggest expansion since initial release — adding Pixel Fastboot services and full Knox Guard server integration.
+🔥 What’s New in v2.0.0
+🟢 Google Pixel Support (Fastboot Mode)
+Now supporting 38+ Pixel models (Pixel 4 → Pixel 9 Pro Fold)
+✅ FRP Unlock
+✅ Bootloader Unlock
+✅ Factory Reset + Bootloader Re-lock
+✅ Auto Fastboot detection (3-second polling)
+✅ Live device info display (model, serial, BL status)
+Credit cost: • FRP Unlock – 40 credits
+• Bootloader Unlock – 20 credits
+• Factory Reset – 30 credits
+🟣 Samsung Knox Guard (KG) Removal — Server-Based
+New fully integrated server-side processing:
+✅ Remove by IMEI (remote submission)
+✅ Request KG Unlock QR
+✅ Remove by QR (after QR request)
+✅ Per-model pricing
+✅ No USB cable required for server jobs
+🔵 Samsung IMEI Expansion
+📈 Expanded from 155 models → 349+ Samsung Galaxy models
+⚡️ Replaced old AT modem commands with direct ADB-based IMEI write
+🔧 Improved stability across baseband variants
+Credit cost: • 40–110 credits depending on model
+🛠 Improvements & Fixes
+✔️ Fixed USB reconnect race condition
+✔️ Improved device detection reliability
+✔️ Enhanced runtime stability
+✔️ Optimized API communication
+✔️ Faster log updates
+💎 Built for Professionals
+• Dual Mode: ADB (Samsung) + Fastboot (Pixel)
+• Server-side Knox Guard removal
+• Real-time operation logs
+• HMAC-SHA256 signed API requests
+• Anti-debug & anti-crack protection
+• Transparent credit pricing
+Titan Tool now supports:
+✅ Samsung IMEI + Carrier Unlock + eSIM EID
+✅ Google Pixel FRP / Bootloader / Reset
+✅ Knox Guard Removal (Server Processed)
+All in ONE application.
+📥 Download latest version
+Register → Buy Credits → Start Working
+Serious operators only.
+Professional-grade stability.
