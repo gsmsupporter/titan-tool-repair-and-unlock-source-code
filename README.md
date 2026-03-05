@@ -22,7 +22,7 @@ This repository serves as the official documentation and architectural overview 
 ---
 ### 📩 Acquisition Inquiries
 For a full technical walkthrough, live demo, or pricing discussion:
-👉 **Website:** [titantool.gsmsupporters.com](https://titantool.gsmsupporters.com/)
+👉 **Website:** https://t.me/imeirepairserverupdates
 
 <img width="1471" height="886" alt="03 03 2026_15 20 28_REC" src="https://github.com/user-attachments/assets/9ba6b879-7dfc-4c38-ac0c-e332e9bea56c" />
 <img width="1445" height="892" alt="03 03 2026_15 20 12_REC" src="https://github.com/user-attachments/assets/feb0c023-9e8f-4a1e-8687-61d7483bf659" />
